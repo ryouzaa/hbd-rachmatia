@@ -1,6 +1,6 @@
 export const soon = {
   title: "Datang Kembali Nanti...",
-  body: `<br />
+  body: `<br /><br /><br /><br /><br /><br /><br /><br />
     <h1>Hai, Kamu datang terlalu awal</h1>
     <br /><br /><br />
     <p>
@@ -11,7 +11,7 @@ export const soon = {
 
 export const late = {
   title: "Sampai Jumpa Kembali...",
-  body: `<br />
+  body: `<br /><br /><br /><br /><br /><br /><br /><br />
     <h1>Pesta Ulang Tahun Telah Selesai</h1>
     <br /><br /><br />
     <p>
